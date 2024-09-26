@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-color: black;
+}
+.wrapper{
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding-left: 300px;
+}
+.wrapper a{
+    color: rgb(211, 13, 13);
+    text-decoration: none;
+    
+}

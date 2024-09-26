@@ -1,0 +1,8 @@
+body{
+    color: rgb(247, 226, 226);
+    background-image:'uploads/backg.jpg';
+}
+.container{
+    margin-top: 50px;
+    padding-top: 50px;
+}

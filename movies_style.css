@@ -1,0 +1,37 @@
+
+body{
+    color: rgb(247, 233, 233);
+    margin-top: auto;
+}
+.flex_container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.buy{
+    font-family: "arial";
+    border: 30px;
+    border-right-color: blueviolet;
+    display: inline-block;
+    background: linear-gradient(45deg, #87adfe, #646063);
+    border-radius: 6px;
+    padding: 3px 15px;
+    box-sizing: border-box;
+    margin-top: 5px;
+   
+}
+.trailer{
+    display: inline-block;
+    background: linear-gradient(45deg, #a0a5af, #686468);
+    border-radius: 60px;
+    padding: 5px 15px;
+    box-sizing: border-box;
+    
+    
+
+}
+    .movieitemdata{
+    padding: 20px;
+}

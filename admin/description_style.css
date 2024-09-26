@@ -1,0 +1,53 @@
+body{
+    color: aliceblue;
+    background-color: #111111;
+    
+}
+.movie_details{
+    margin: 30px;
+    margin-left: 80px;
+    justify-content: center;
+    align-content: center;
+}
+.delete_movies{
+    margin: 10px;
+    margin-left: 300px;
+    justify-content: center;
+    align-content: center;
+
+}
+.show_time_links a{
+    color: rgb(13, 129, 200);
+    text-decoration: none;
+    
+}
+.show_time_links a:hover{
+    color: rgb(13, 200, 88);
+    text-decoration: none;
+    
+}
+
+
+
+table td ,table th{
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+.add_movie_details, .movie_details{
+    margin: 10px;
+    margin-left: 300px;
+    justify-content: center;
+    align-content: center;
+
+}
+.add_movies, .update_movies{
+    margin-left: 300px;
+    border: 30px;
+    border-right-color: rgb(157, 142, 172);
+    display: inline-block;
+    background: linear-gradient(45deg, #0f45b9, #b82e95);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 5px;
+}

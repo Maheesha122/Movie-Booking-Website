@@ -1,0 +1,39 @@
+.section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    color: rgb(238, 231, 231);
+}
+
+.social-list {
+    margin-bottom: 10px;
+    padding-left: 50px ;
+   
+}
+
+.content {
+    font-size: 18px;
+    
+}
+.footer-menu{
+    color: darkmagenta;
+   
+
+}
+
+.content2 {
+    color: #fff;
+    text-decoration: none;
+    margin: 5px;
+    margin-left: 2px;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}

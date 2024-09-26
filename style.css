@@ -1,0 +1,37 @@
+
+
+body{
+    color: white;
+}
+
+h1{
+    margin-top: 100px;
+    color: red;
+}
+
+.flex_container{
+    display: flex;
+    justify-content: center;
+}
+.buy{
+    font-family: "arial";
+    border: 30px;
+    border-right-color: blueviolet;
+    display: inline-block;
+    background: linear-gradient(45deg, #87adfe, #646063);
+    border-radius: 6px;
+    padding: 3px 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+   
+}
+.trailer{
+    display: inline-block;
+    background: linear-gradient(45deg, #a0a5af, #686468);
+    border-radius: 60px;
+    padding: 2px 15px;
+    box-sizing: border-box;
+}
+.movieitemdata{
+    padding: 20px;
+}

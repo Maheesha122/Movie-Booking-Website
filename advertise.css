@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+    background-color: #141314;
+    color: #f3e9e9;
+    padding: 1em  ;
+}
+.ad{
+    background-color: #141314;
+    color: #f5ebeb;
+     border: none;
+}
+.ad, .featured-movies {
+    text-align: center;
+    margin: 0.2em;
+}
+
+.movie {
+    margin: 1em;
+}
+
+.movie img {
+    max-width: 100%;
+    border-radius: 50px;
+}
+
+.movie h3 {
+    margin-top: 0.5em;
+}
+
+.movie p {
+    font-size: 0.9em;
+    color: #555555;
+}
